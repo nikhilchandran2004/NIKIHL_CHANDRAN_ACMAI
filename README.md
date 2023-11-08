@@ -10,4 +10,4 @@ Youtube    link           -> https://www.youtube.com/watch?v=EMk1NwJh7mg
 roll   no      :        AM.EN.U4AIE22035
 Amrita mail    :        am.en.u4aie22035@am.students.amrita.edu
 personal mail  :        nikhilchandran2004@gmail.com
-batch          :        S1-AIE(A)
+batch          :        S3-AIE(A)
